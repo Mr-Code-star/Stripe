@@ -20,5 +20,10 @@ Este es un proyecto de prueba para aprender a integrar Stripe como pasarela de p
 
 * **Requisitos Previos**
   * Cuenta en [Stripe](https://dashboard.stripe.com/login) (para obtener las API necesarias)
-    
+ 
+
+ **creditos**
+ - Video: [video](https://www.youtube.com/watch?v=1PimrCYtJ0M&t=2340s)
+ - Git Hub: [Fazt](https://github.com/fazt)
+  
 
